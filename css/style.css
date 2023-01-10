@@ -1,0 +1,42 @@
+
+
+/* Image slider  */
+.panda-img-slider-bg{
+    background-color: #FEEAE9;;
+}
+.slider-heading{
+    font-size: 56px;
+}
+.slider-price{
+
+    font-size: 56px; 
+    color: #FF136F;
+}
+
+/* BUY Button  */
+.panda-buy-btn{
+    background-color: #FF589B ; 
+    width: 168px;
+    height: 52px;
+    color: #ffffff;
+}
+
+/* categories  */
+/* d-flex rounded-3 align-items-center justify-content-around" style="background-color: ; */
+.categories{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+
+/* Background color */
+.watch-bg{
+    background-color: #FF9C35;
+}
+.bag-bg{
+    background-color:  #FF589B;
+}
+.shoes-bg{
+    background-color: #4289FF;
+}
